@@ -4,7 +4,6 @@ Computer Science student building expertise in software engineering, AI, and GPU
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square&label=Profile+Views)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lemming-CS)
 
 ---
 
@@ -56,5 +55,6 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 ---
 
 ## GitHub Stats
-![Lemming-CS stats](https://github-readme-stats.vercel.app/api?username=Lemming-CS&show_icons=true&count_private=true&hide_border=true)
+![Lemming-CS stats](https://github-readme-stats.vercel.app/api?username=Lemming-CS&show_icons=true&count_private=false&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&layout=compact)
+
