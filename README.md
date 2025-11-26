@@ -53,4 +53,4 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 <br/><br/>
 
 ---
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lemming-CS&theme=vue-dark&mode=weekly" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lemming-CS&theme=vue-dark&mode=weekly&type=png)](https://git.io/streak-stats)
