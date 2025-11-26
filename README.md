@@ -11,7 +11,7 @@ Computer Science student building expertise in software engineering, AI, and GPU
 ## About Me
 - Computer Science student at AIT (Kyrgyzstan)  
 - Currently studying: **CS50**, **The Odin Project**, and **Linux fundamentals**  
-- Interested in: **AI/ML**, **GPU computing**, **systems programming**, **algorithms**,**fullstack development** and **software engineering**  
+- Interested in: **AI/ML**, **GPU computing**, **systems programming**, **algorithms**, **fullstack development** and **software engineering**  
 
 ---
 
