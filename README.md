@@ -4,7 +4,8 @@ Computer Science student building expertise in software engineering, AI, and GPU
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square&label=Profile+Views)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lemming-CS)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Lemming-CS)
+
 ---
 
 ## About Me
@@ -14,43 +15,46 @@ Computer Science student building expertise in software engineering, AI, and GPU
 
 ---
 
-## Technical Skills (Developing)
+## Technical Skills
 - **Languages:** Python, C, JavaScript  
+- **Web Development:** HTML, CSS, Flask, SQL  
 - **Tools:** Git, Linux, Bash  
-- **Web:** HTML, CSS, Flask, SQL  
-- **CS50x Foundations:** Data Structures, Algorithms, memory management, web basics
+- **Foundations:** CS50x - Data Structures, Algorithms, memory management  
 
 ---
 
 ## Current Learning & Projects
-- Completing **CS50 final project** to strengthen web development and backend skills  
-- Building Python CLI tools to improve problem-solving and algorithmic thinking  
-- Strengthening Data Structures & Algorithms knowledge  
+- Completing **CS50 final project** (full-stack web app)  
+- Building **Python CLI tools** to improve problem-solving and algorithmic thinking  
+- Strengthening **Data Structures & Algorithms** knowledge  
 - Exploring **Fullstack development and modern web frameworks**
 
 ---
 
 ## Projects
 
-### CS50 Finance (Web Application)
-A full-stack web application that allows users to register, log in, buy/sell stocks, check stock prices using an API, and track transaction history.
+### CS50 Finance (Full-stack Web Application)
+A web application that allows users to register, log in, buy/sell stocks, check stock prices via API, and track transaction history.
 
 - **Tech stack:** Python, Flask, SQLite, HTML/CSS/JS, Jinja templates  
 - **Live demo:** [Visit here](https://lemming-cs50-finance.onrender.com)  
-
-**Features:**
-- User registration & login with secure password hashing
-- Real-time stock quote lookup
-- Portfolio tracking & transaction history
-- Buy/sell operations
-- Input validation and API integration
-
-**Learned:** Flask routing, SQL queries, session management, API integration, deploying a Python app on Render, and front-end integration with Bootstrap.  
-
-[View CS50 Finance project](https://github.com/Lemming-CS/cs50-finance)
+- **Features:**
+  - User registration & login with secure password hashing
+  - Real-time stock quote lookup
+  - Portfolio tracking & transaction history
+  - Buy/sell operations
+  - Input validation and API integration
+- **Learned:** Flask routing, SQL queries, session management, API integration, deployment on Render, front-end integration with Bootstrap.  
+- **Repo:** [GitHub link](https://github.com/Lemming-CS/cs50-finance)
 
 ---
 
 ## Contact
-If you'd like to connect, collaborate, or discuss software engineering topics, feel free to reach out.  
+<a href="mailto:zhanbolotkydyraliev@gmail.com"><img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" /></a>
+<br/><br/>
 
+---
+
+## GitHub Stats
+![Lemming-CS stats](https://github-readme-stats.vercel.app/api?username=Lemming-CS&show_icons=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&layout=compact)
