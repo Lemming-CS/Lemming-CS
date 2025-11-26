@@ -36,6 +36,7 @@ A full-stack web application that allows users to register, log in, buy/sell sto
 Tech stack: Python, Flask, SQLite, HTML/CSS/JS, Jinja templates
 
 Live demo: <a href="https://lemming-cs50-finance.onrender.com">Visit here</a>
+
 Features:
 <ul>
 <li>User registration & login with secure password hashing</li>
@@ -44,11 +45,8 @@ Features:
 <li>Buy/sell operations</li>
 <li>Input validation and API integration</li>
 </ul>
-Screenshots:
-<img src="screenshots/login.png" width="600">
-<img src="screenshots/portfolio.png" width="600">
-<img src="screenshots/quote.png" width="600">
-<img src="screenshots/history.png" width="600">
+
+[View CS50 Finance project](https://github.com/Lemming-CS/cs50-finance)
 
 Learned: Flask routing, SQL queries, session management, API integration, deploying a Python app on Render, and front-end integration with Bootstrap.
 
