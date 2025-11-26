@@ -4,7 +4,7 @@ Computer Science student building expertise in software engineering, AI, and GPU
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square&label=Profile+Views)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Lemming-CS)
 ---
 
 ## About Me
