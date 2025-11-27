@@ -47,3 +47,5 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 ## Contact
 <a href="mailto:zhanbolotkydyraliev@gmail.com"><img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" /></a>
 <br/><br/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemming-CS&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Lemming-CS)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&layout=compact&theme=tokyonight)](https://github.com/Lemming-CS)
