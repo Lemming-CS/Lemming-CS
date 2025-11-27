@@ -49,6 +49,4 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 <br/><br/>
 ---
 ## Github Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemming-CS&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Lemming-CS)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Lemming-CS)
