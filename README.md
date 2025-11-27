@@ -47,23 +47,3 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 ## Contact
 <a href="mailto:zhanbolotkydyraliev@gmail.com"><img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" /></a>
 <br/><br/>
-
----
-## 📊 GitHub Analytics
-
-### 👀 Profile Views
-![Profile Views](https://hit.yhype.me/github/profile?account_id=220599209)
-
-### 📈 Daily View Graph
-[![Daily Views](https://stats.hype.svg/view?account_id=220599209&chart=daily&theme=dark)](https://stats.hype.svg/view?account_id=220599209&chart=daily&theme=light
-)
-
-### 📂 Total Repository Views
-![Total Repo Views](https://stats.hype.svg/view?account_id=220599209&chart=repos&theme=dark)
-
-### ⭐ Most Viewed Repository
-![Most Viewed Repo](https://stats.hype.svg/repo?account_id=220599209&type=views&theme=dark)
-
-### 📦 Repo Stats (Stars, Forks, Views)
-![Repo Stats](https://stats.hype.svg/top?account_id=220599209&metric=stars&limit=6&theme=dark)
-
