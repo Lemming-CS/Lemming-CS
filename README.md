@@ -3,10 +3,6 @@ Computer Science student building expertise in software engineering, AI, and GPU
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square)
-
----
-
 ## About Me
 - Computer Science student at **AIT, Kyrgyzstan**  
 - Currently studying: **CS50**, **The Odin Project**, and **Linux fundamentals**  
@@ -53,4 +49,4 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 <br/><br/>
 
 ---
-
+![](https://hit.yhype.me/github/profile?account_id=220599209)
