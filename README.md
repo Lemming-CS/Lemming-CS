@@ -3,7 +3,7 @@ Computer Science student building expertise in software engineering, AI, and GPU
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&color=0E76A8&style=flat-square)
 
 ---
 
