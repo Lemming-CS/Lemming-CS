@@ -1,30 +1,10 @@
 # Lemming-CS
-Computer Science student building expertise in software engineering, AI, and GPU technologies.
 
----
+CS student building expertise in software engineering, systems, and AI.
 
-## About Me
-- Computer Science student at **AIT, Kyrgyzstan**  
-- Currently studying: **CS50**, **The Odin Project**, and **Linux fundamentals**  
-- Interested in: **AI/ML**, **GPU computing**, **systems programming**, **algorithms**, **fullstack development**, and **software engineering**  
-
----
-
-## Technical Skills
-- **Languages:** Python, C, JavaScript  
-- **Web Development:** HTML, CSS, Flask, SQL  
-- **Tools:** Git, Linux, Bash  
-- **Foundations:** CS50x - Data Structures, Algorithms, memory management  
-
----
-
-## Current Learning & Projects
-- Completing **CS50 final project** (full-stack web app)  
-- Building **Python CLI tools** to improve problem-solving and algorithmic thinking  
-- Strengthening **Data Structures & Algorithms** knowledge  
-- Exploring **Fullstack development and modern web frameworks**
-
----
+## Stack
+Python • C • JavaScript  
+Flask • SQL • Linux • Git  
 
 ## Projects
 
