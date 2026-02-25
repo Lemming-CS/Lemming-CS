@@ -4,9 +4,9 @@ CS student building expertise in software engineering, systems, and AI.
 
 ## Stack
 
-Languages: Python, C, JavaScript
-Backend: Flask, SQL
-Frontend: HTML/CSS
+- Languages: Python, C, Java, JavaScript
+- Backend: Flask, SQL
+- Frontend: HTML/CSS
 
 ## Projects
 
