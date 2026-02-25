@@ -3,8 +3,10 @@
 CS student building expertise in software engineering, systems, and AI.
 
 ## Stack
-Python • C • JavaScript  
-Flask • SQL • Linux • Git  
+
+Languages: Python, C, JavaScript
+Backend: Flask, SQL
+Frontend: HTML/CSS
 
 ## Projects
 
@@ -13,13 +15,6 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 
 - **Tech stack:** Python, Flask, SQLite, HTML/CSS/JS, Jinja templates  
 - **Live demo:** [Visit here](https://lemming-cs50-finance.onrender.com)  
-- **Features:**
-  - User registration & login with secure password hashing
-  - Real-time stock quote lookup
-  - Portfolio tracking & transaction history
-  - Buy/sell operations
-  - Input validation and API integration
-- **Learned:** Flask routing, SQL queries, session management, API integration, deployment on Render, front-end integration with Bootstrap.  
 - **Repo:** [GitHub link](https://github.com/Lemming-CS/cs50-finance)
 
 ---
