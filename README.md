@@ -35,7 +35,11 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 <br/><br/>
 ---
 ## Github Stats
+![](https://github-readme-stats.vercel.app/api?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Lemming-CS&theme=great-gatsby&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Lemming-CS)
-![](https://github-profile-trophy.vercel.app/?username=Lemming-CS&theme=discord_old_blurple&no-frame=false&no-bg=false&margin-w=4)
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&style=flat&color=0e75b6)
 ![](https://hit.yhype.me/github/profile?account_id=220599209)
