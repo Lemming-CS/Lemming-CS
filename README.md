@@ -1,16 +1,39 @@
 # Lemming-CS
 
-CS student building expertise in software engineering, systems, and AI.
+CS student building expertise in software engineering, fullstack applications, and AI.
 
 ## Stack
 
-Languages: Python, C, Java, JavaScript  
-Frontend: React  
-Backend: Flask, Firebase  
-Databases: SQLite, Firestore  
-Tools: Git, Vite
+Languages: Python, C, Java, JavaScript, Dart  
+Frontend: React, Flutter  
+Backend: FastAPI, Flask, Firebase  
+Databases: MySQL, SQLite, Firestore  
+Tools: Git, Docker, Vite
+
+---
 
 ## Projects
+
+### Real Estate Marketplace (Full-stack Mobile + Web Platform)
+
+A full-stack real estate marketplace with listings, messaging, promotions, moderation, and localization. Built with a production-style architecture including backend APIs, mobile client, and admin panel.
+
+- **Tech stack:** FastAPI, MySQL, Flutter, React (Admin), Docker  
+- **Features:**
+  - Listings (rent/sale, apartments/houses)
+  - Image & video uploads with media management
+  - Favorites & view counters (deduplicated)
+  - Real-time messaging with attachments
+  - Report system with admin moderation workflow
+  - Promotions & payments (mocked)
+  - Role-based access (user, seller, admin)
+  - Localization (EN / RU)
+  - Pagination, filtering, and sorting (multi-currency)
+  
+- **Repo:** [Github Link](https://github.com/Lemming-CS/real_estate_marketplace)
+
+---
+
 ### Realtime Collaborative Task Manager (Full-stack Web Application)
 
 A real-time task tracking tool for small teams. Users can create projects, invite collaborators, and manage tasks with status, priority, deadlines, and assignees. All updates sync instantly across clients using Firestore real-time listeners.
@@ -20,8 +43,10 @@ A real-time task tracking tool for small teams. Users can create projects, invit
 - **Live demo:** [Visit here](https://realtime-collaborative-task-manager.vercel.app/)  
 - **Repo:** [GitHub link](https://github.com/Lemming-CS/realtime-collaborative-task-manager)
 
+---
 
 ### CS50 Finance (Full-stack Web Application)
+
 A web application that allows users to register, log in, buy/sell stocks, check stock prices via API, and track transaction history.
 
 - **Tech stack:** Python, Flask, SQLite, HTML/CSS/JS, Jinja templates  
@@ -31,12 +56,20 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 ---
 
 ## Contact
-<a href="mailto:zhanbolotkydyraliev@gmail.com"><img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" /></a>
+
+<a href="mailto:zhanbolotkydyraliev@gmail.com">
+<img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
+</a>
+
 <br/><br/>
+
 ---
+
 ## Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lemming-CS&theme=great-gatsby&hide_border=true)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Lemming-CS&theme=great-gatsby&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&style=flat&color=0e75b6)
