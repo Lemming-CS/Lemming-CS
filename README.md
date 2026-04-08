@@ -4,7 +4,7 @@ CS student building expertise in software engineering, fullstack applications, a
 
 ## Stack
 
-Languages: Python, C, Java, JavaScript, Dart  
+Languages: Python, C, Java, TypeScript, Dart  
 Frontend: React, Flutter  
 Backend: FastAPI, Flask, Firebase  
 Databases: MySQL, SQLite, Firestore  
