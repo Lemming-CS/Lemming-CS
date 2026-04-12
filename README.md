@@ -18,7 +18,7 @@ Tools: Git, Docker, Vite
 
 A full-stack real estate marketplace with listings, messaging, promotions, moderation, and localization. Built with a production-style architecture including backend APIs, mobile client, and admin panel.
 
-- **Tech stack:** FastAPI, MySQL, Flutter, React (Admin), Docker  
+- **Tech stack:** FastAPI, MySQL, Flutter, React (Admin), Docker, Alembic
 - **Features:**
   - Listings (rent/sale, apartments/houses)
   - Image & video uploads with media management
