@@ -32,8 +32,8 @@ An AI-powered travel planning platform for Kyrgyzstan. Users describe their budg
   - Role-based access (user, business, admin)
   - Subscription plans with generation and edit limits
   - Admin moderation for sponsored places and user management
-- **Live demo (User):** [nomad-ai-client.vercel.app](https://nomad-ai-client.vercel.app)
-- **Live demo (Business):** [nomad-ai-pi.vercel.app](https://nomad-ai-pi.vercel.app)
+- **Live demo (User):** [Nomad AI Client](https://nomad-ai-client.vercel.app)
+- **Live demo (Business):** [Nomad AI Business Panel](https://nomad-ai-pi.vercel.app)
 - **Repo:** [Github Link](https://github.com/LemmingLabs/nomad-ai)
 
 --- 
