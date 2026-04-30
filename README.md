@@ -14,6 +14,30 @@ Tools: Git, Docker, Vite
 
 ## Projects
 
+### NomadAI (AI Travel Planning Platform)
+
+An AI-powered travel planning platform for Kyrgyzstan. Users describe their budget, travel style, duration, and interests — the platform generates a structured multi-day itinerary enriched with real places, Google Routes, curated photos, and native business sponsorships. Trips are saved to user accounts and editable through a conversational AI interface.
+
+- **Tech stack:** FastAPI, PostgreSQL, React, TypeScript, Groq, Google Places API, Google Routes API, Pexels API, Alembic, Docker
+- **Features:**
+  - AI itinerary generation via Groq with structured JSON output
+  - Google Places enrichment — real locations replacing AI-generated ones
+  - Google Routes — distances, travel times, and transport cost estimates per day
+  - Pexels photo enrichment per itinerary day
+  - Conversational editing — refine any day via chat, only changed days re-enriched
+  - Guest mode with localStorage → account sync on registration
+  - Trip history with full chat context continuation
+  - Sponsored place injection — businesses appear natively inside itineraries
+  - Sponsored analytics (impressions, interactions, CTR)
+  - Role-based access (user, business, admin)
+  - Subscription plans with generation and edit limits
+  - Admin moderation for sponsored places and user management
+- **Live demo (User):** [nomad-ai-client.vercel.app](https://nomad-ai-client.vercel.app)
+- **Live demo (Business):** [nomad-ai-pi.vercel.app](https://nomad-ai-pi.vercel.app)
+- **Repo:** [Github Link](https://github.com/LemmingLabs/nomad-ai)
+
+--- 
+
 ### Real Estate Marketplace (Full-stack Mobile + Web Platform)
 
 A full-stack real estate marketplace with listings, messaging, promotions, moderation, and localization. Built with a production-style architecture including backend APIs, mobile client, and admin panel.
