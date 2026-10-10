@@ -96,5 +96,7 @@ A web application that allows users to register, log in, buy/sell stocks, check 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemming-CS&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+[![committers.top badge](https://user-badge.committers.top/kyrgyzstan_private/Lemming-CS.svg)](https://user-badge.committers.top/kyrgyzstan_private/Lemming-CS)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Lemming-CS&style=flat&color=0e75b6)
 ![](https://hit.yhype.me/github/profile?account_id=220599209)
